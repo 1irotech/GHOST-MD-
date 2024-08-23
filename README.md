@@ -42,10 +42,13 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a></p>
-- <br>
-<a href='https://irotech-ghost-md1.onrender.com/pair' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+ <a href="https://irotech-ghost-md1.onrender.com/pair"><img title="Pair" src="https://img.shields.io/badge/PAIR 1-h?color=blue&style=for-the-badge&logo=G" width="220" height="38.45"/></a></p>
 
-- <a href="https://david-session-2-94sq.onrender.com/pair"><img title="GET SESSION OPT 2" src="https://img.shields.io/badge/GET SESSION OPT 2-h?color=red&style=for-the-badge&logo=G" width="220" height="38.45"/></a></p>
+<a href="https://irotech-ghost-md1.onrender.com/qr"><img title="QR" src="https://img.shields.io/badge/QR-h?color=yellow&style=for-the-badge&logo=G" width="220" height="38.45"/></a></p>
+
+USE THIS IF FIRST NOT WORK
+
+<a href="https://david-session-2-94sq.onrender.com/pair"><img title="PAIR 2" src="https://img.shields.io/badge/PAIR 2-h?color=red&style=for-the-badge&logo=G" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
