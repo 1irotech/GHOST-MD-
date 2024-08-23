@@ -30,7 +30,7 @@
 <a href="https://github.com/1irotech/Ghost-MD-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/1irotech/GHOST-MD-?&style=social"></a>
 <a href="https://github.com/1irotech/GHOST-MD-/network/members"><img title="Fork" src="https://img.shields.io/github/forks/1irotech/GHOST-MD-?style=social"></a>
 <a href="https://github.com/1irotech/GHOST-MD-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/1irotech/GHOST-MD-?label=Watching&style=social"></a>
-</p>></a>                     
+</p></a>                     
 
    <h1 align="center"                  
 
@@ -51,23 +51,23 @@
 
 </p>
 
-- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/berabotsmd/TREX-MD &template=https://github.com/berabotsmd/TREX-MD"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=G" width="220" height="38.45"/></a></p>
+- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/berabotsmd/TREX-MD &template=https://github.com/berabotsmd/TREX-MD"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
-- <a href="https://toystack.ai/"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON TOYSTACK-h?color=orange&style=for-the-badge&logo=G" width="220" height="38.45"/></a></p>
+- <a href="https://toystack.ai/"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON TOYSTACK-h?color=orange&style=for-the-badge&logo=tesla" width="220" height="38.45"/></a></p>
 
 
 
-- <a href="https://www.clever-cloud.com/"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON CLEVER-h?color=black&style=for-the-badge&logo=G" width="220" height="38.45"/></a></p>
-
-</p>
-
-- <a href="https://render.com"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON RENDER-h?color=grey&style=for-the-badge&logo=G" width="220" height="38.45"/></a></p>
+- <a href="https://www.clever-cloud.com/"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON CLEVER-h?color=black&style=for-the-badge&logo=clever-cloud" width="220" height="38.45"/></a></p>
 
 </p>
 
-- <a href="https://uptimerobot.com"><img title="Run it on uptime" src="https://img.shields.io/badge/RUN ON UPTIME-h?color=blue&style=for-the-badge&logo=G" width="220" height="38.45"/></a></p>
+- <a href="https://render.com"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON RENDER-h?color=grey&style=for-the-badge&logo=Render" width="220" height="38.45"/></a></p>
+
+</p>
+
+- <a href="https://uptimerobot.com"><img title="Run it on uptime" src="https://img.shields.io/badge/RUN ON UPTIME-h?color=blue&style=for-the-badge&logo=Uptimerobot" width="220" height="38.45"/></a></p>
 
 </p>
 
@@ -82,7 +82,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Join my channel for updates
 <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
