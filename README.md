@@ -67,11 +67,11 @@
 
 </p>
 
-- <a href="https://uptimerobot.com"><img title="Run it on uptime" src="https://img.shields.io/badge/RUN ON UPTIME-h?color=blue&style=for-the-badge&logo=Uptimerobot" width="220" height="38.45"/></a></p>
+- <a href="https://replit.com"><img title="Run it on uptime" src="https://img.shields.io/badge/RUN ON replit-h?color=cyan&style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
 </p>
 
-- <a href="https://github.com/berabotsmd/TREX-MD"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=G" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/1irotech/GHOST-MD-"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=GITHUB" width="220" height="38.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
