@@ -12,7 +12,7 @@
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029Vaimwm31CYoODXWCbI3Y">
-    <img alt="wasi" height="400" src="https://ibb.co/CbnTsMt">
+    <img alt="wasi" height="400" src="https://iili.io/dW5IIV9.md.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <h1 align="center">ᘜᕼOՏT ᗰᗪ</h1>
   </a>
@@ -71,7 +71,7 @@
 
 </p>
 
-- <a href="https://github.com/berabotsmd/TREX-MD"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/berabotsmd/TREX-MD"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=G" width="220" height="38.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -147,4 +147,5 @@ Enjoy the diverse features of the *ᘜᕼOՏT ᗰᗪ*  to enhance your Whatsapp 
 .
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-# `CREDIT <a href='https://github.com/berabotsmd/TREX-MD'>TREX MD</a>`
+# `CREDIT`
+<a href='https://github.com/berabotsmd/TREX-MD'>TREX MD</a>
