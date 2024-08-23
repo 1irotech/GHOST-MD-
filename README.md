@@ -12,7 +12,7 @@
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029Vaimwm31CYoODXWCbI3Y">
-    <img alt="wasi" height="400" src="https://iili.io/dW5IIV9.md.jpg">
+    <img alt="wasi" height="400" src="https://telegra.ph/file/ae0a97c5e44b82221c874.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <h1 align="center">ᘜᕼOՏT ᗰᗪ</h1>
   </a>
